@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 # $Id$
+#
+#
+# to be used in conjunction with http://aszeszo.blogspot.com/2009/07/ips-repository-mirror-script_27.html
+#
+# read pkg/* and delete incorrect (size / checksum) files/*
+#
 
 import getopt
 import glob
