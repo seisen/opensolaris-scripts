@@ -1,0 +1,6 @@
+
+check coherency (size and checksum of files) of a local repository
+
+Meant to be executed before/after: ips-mirror.py found at:
+
+http://aszeszo.blogspot.com/2009/07/ips-repository-mirror-script_27.html
